@@ -13,13 +13,13 @@
     border-radius: 20px;
     
 }
-{
+
     .navbar{
         width: auto;
         padding: 30px;
     }
     
-}
+
 .leftpart{
     display: flex;
     align-items: center;
